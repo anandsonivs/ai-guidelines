@@ -49,7 +49,7 @@ Ready-to-use prompt templates for common tasks:
 - Troubleshooting prompts for common issues
 - Tips for getting better results from Cursor
 
-### [Legal Compliance Platform Prompts](legal-compliance-quick-reference-prompts.md)
+### [Legal Compliance Platform Prompts](zolvit-relevant-quick-reference-prompts.md)
 
 Specialized prompt templates for building legal compliance platforms:
 - Compliance form components and workflows
