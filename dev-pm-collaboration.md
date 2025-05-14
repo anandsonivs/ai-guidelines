@@ -25,7 +25,7 @@ This guide focuses on establishing effective collaboration between developers an
 4. **Set up shared repository/project** structure
 
 ### Phase 2: Prototype Development
-1. **PMs create functional prototype** using Cursor and guidelines
+1. **PMs create functional prototype** using the guidelines
 2. **Regular check-ins with developers** for technical guidance
 3. **Developers provide feedback** on implementation approach
 4. **PMs document decisions and limitations**
@@ -62,7 +62,7 @@ This guide focuses on establishing effective collaboration between developers an
 - **Identify potential roadblocks** or complex areas
 - **Maintain shared understanding** of project goals
 
-## Using Cursor Together
+## Developing Better Together
 
 ### Shared Prompt Library
 - **Create a team prompt library** for common patterns
@@ -83,7 +83,7 @@ Follow these standards:
 ```
 
 ### Collaborative Debugging
-- **Use Cursor to explain complex code** segments
+- **Use Cursor or any AI-based IDE to explain complex code** segments
 - **Generate documentation together**
 - **Create test cases collaboratively**
 - **Troubleshoot issues in real-time**
@@ -142,12 +142,12 @@ We improved:
 ### Code Quality Gaps
 - **Identify specific patterns** to improve, not general criticism
 - **Create reusable snippets** for common patterns
-- **Use Cursor to explain** why certain approaches are preferred
+- **Use AI to explain** why certain approaches are preferred
 
 ### Communication Breakdowns
 - **Return to documented requirements** and goals
-- **Use Cursor to explain technical concepts** to PMs
-- **Have PMs explain business requirements** to developers using Cursor
+- **Use AI to explain technical concepts** to PMs
+- **Have PMs explain business requirements** to developers
 
 ### Integration Challenges
 - **Document specific integration points** during prototype phase
