@@ -1,4 +1,4 @@
-# Cursor IDE Guidelines
+# AI-assisted development guidelines
 
 This repository contains comprehensive guidelines for using AI-based tools effectively to improve developer productivity and enable product managers to create reusable prototype code.
 
