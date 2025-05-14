@@ -1,19 +1,7 @@
-# Cursor IDE Guidelines for Product Managers
+# Development and Prompting Guidelines for Product Managers
 
 ## Introduction
-Cursor IDE can be a powerful tool for product managers to create functional prototypes without extensive coding experience. This guide will help you use Cursor to create prototype code that developers can later refine and integrate into production systems.
-
-## Getting Started
-
-### Setting Up Your Environment
-1. **Install Cursor IDE** from [cursor.so](https://cursor.so)
-2. **Set up a prototype project** (consider using a template)
-3. **Authenticate with an API key** if prompted (OpenAI account may be required)
-
-### Basic AI Features for PMs
-- **Command+K**: Opens the AI chat panel (your main interface)
-- **Command+L**: Generate code inline
-- **Command+I**: Explain selected code (helpful for understanding)
+AI can be a powerful tool for product managers to create functional prototypes without extensive coding experience. This guide will help you use any AI-based tool to create prototype code that developers can later refine and integrate into production systems.
 
 ## Creating Reusable Prototypes
 

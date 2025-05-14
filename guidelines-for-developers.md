@@ -1,19 +1,7 @@
-# Cursor IDE Guidelines for Developers
+# Coding and Prompting Guidelines for Developers
 
 ## Introduction
-Cursor IDE is a powerful tool that integrates AI capabilities to significantly boost your coding productivity. This guide will help you leverage Cursor effectively to write production-grade code without requiring you to be an expert prompt engineer.
-
-## Getting Started
-
-### Setting Up Your Environment
-1. **Install Cursor IDE** from [cursor.so](https://cursor.so)
-2. **Set up your project** as you would in VSCode (Cursor is built on VSCode)
-3. **Authenticate with an API key** if prompted (OpenAI account may be required)
-
-### Basic AI Features
-- **Command+K**: Opens the AI chat panel
-- **Command+L**: Generate code inline
-- **Command+I**: Explain selected code
+AI is a powerful tech that can significantly boost your coding productivity. This guide will help you leverage any AI based IDE effectively to write production-grade code without requiring you to be an expert prompt engineer.
 
 ## Effective Prompting Techniques
 

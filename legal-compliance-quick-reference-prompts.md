@@ -1,4 +1,4 @@
-# Cursor IDE Quick Reference: Legal Compliance Platform Prompts
+# Quick Reference: Legal Compliance Platform Prompts
 
 This quick reference guide provides practical, ready-to-use prompt templates specifically for building a legal compliance platform for individuals and MSMEs in India.
 

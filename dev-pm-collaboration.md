@@ -1,6 +1,6 @@
-# Developer-PM Collaboration with Cursor IDE
+# Developer-PM Collaboration Guidelines
 
-This guide focuses on establishing effective collaboration between developers and product managers using Cursor IDE, ensuring prototype code can be seamlessly transformed into production-ready implementations.
+This guide focuses on establishing effective collaboration between developers and product managers, ensuring prototype code can be seamlessly transformed into production-ready implementations.
 
 ## Shared Understanding
 
