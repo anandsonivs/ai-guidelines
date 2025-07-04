@@ -4,7 +4,7 @@ This repository contains comprehensive guidelines for using AI-based tools effec
 
 ## Purpose
 
-These guidelines aim to:
+The guidelines aim to:
 
 1. Help developers leverage AI capabilities to write production-grade code
 2. Enable product managers to create functional prototypes that developers can reuse
