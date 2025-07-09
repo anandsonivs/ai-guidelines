@@ -1,4 +1,4 @@
-# AI-assisted development guidelines
+# AI-assisted development guidelines - update here - revert
 
 This repository contains comprehensive guidelines for using AI-based tools effectively to improve developer productivity and enable product managers to create reusable prototype code.
 
