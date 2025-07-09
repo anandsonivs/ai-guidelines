@@ -2,7 +2,7 @@
 
 This repository contains comprehensive guidelines for using AI-based tools effectively to improve developer productivity and enable product managers to create reusable prototype code.
 
-## Purpose
+## Purpose // Quick fix here - revert this
 
 The guidelines aim to:
 
