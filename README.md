@@ -11,7 +11,7 @@ The guidelines aim to:
 3. Establish best practices for collaboration between PMs and developers using Cursor
 4. Reduce the learning curve for teams adopting AI-assisted development
 
-## Contents
+## Contents - new feature here - revert
 
 ### [Developer Guidelines](guidelines-for-developers.md)
 
